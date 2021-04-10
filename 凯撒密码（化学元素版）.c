@@ -124,5 +124,6 @@ main()
 		case 116:printf("%s","Lv"); break;
 		case 117:printf("%s","Ts"); break;
 		case 118:printf("%s","Og"); break;
+		default:printf("%s","wrong input");
 	}
  } 
